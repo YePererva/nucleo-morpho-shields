@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Morpho-64_shield:Nucleo64_norpho_shield"
+		(property "Footprint" "Morpho-64:Nucleo64_morpho_shield"
 			(at 0.508 3.81 0)
 			(effects
 				(font
