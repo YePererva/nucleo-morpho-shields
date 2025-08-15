@@ -1,7 +1,7 @@
 # nucleo-morpho-shields
 
 >[!WARNING]
-> THIS REPOSITORY IS WORK IN PROGRESS**
+> **THIS REPOSITORY IS WORK IN PROGRESS**
 > There could be incorrect tolerances.
 
 KiCAD library for prototyping shields on Nucleo64 boards utilising Morpho connectors.
