@@ -18,7 +18,7 @@ KiCAD 9 has already built-in template for a similar shield, but I needed some ot
 
 | Top View  | Board Layout |
 | ------------- | ------------- |
-| ![](render/top.jpg)  | ![](render/board_view.png)  |
+| ![](meta/top.jpg)  | ![](meta/board_view.png)  |
 
 ## Remarks
 
