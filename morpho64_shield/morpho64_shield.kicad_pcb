@@ -1903,6 +1903,86 @@
 			)
 		)
 	)
+	(gr_line
+		(start 124.5235 59.6265)
+		(end 124.5235 108.0135)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "457a1cc3-f82e-46f5-a39e-6228c861102b")
+	)
+	(gr_line
+		(start 180.2765 59.6265)
+		(end 185.4835 59.6265)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "648f6314-91f0-4dc9-9d7e-995cb1357cc4")
+	)
+	(gr_line
+		(start 119.3165 108.0135)
+		(end 119.3165 59.6265)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6acfc649-faf6-48fd-9ecf-02506f061857")
+	)
+	(gr_line
+		(start 119.3165 59.6265)
+		(end 124.5235 59.6265)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7c35e58d-29de-4798-a5a6-077acf6cf082")
+	)
+	(gr_line
+		(start 185.4835 59.6265)
+		(end 185.4835 108.0135)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9e59b84a-0158-48b0-89e4-b4733e14a296")
+	)
+	(gr_line
+		(start 180.2765 108.0135)
+		(end 180.2765 59.6265)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b0c601f1-43ff-4042-a787-661b1229dcee")
+	)
+	(gr_line
+		(start 185.4835 108.0135)
+		(end 180.2765 108.0135)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bc0e3b21-e5e3-4cb4-9471-00acc9e33ea9")
+	)
+	(gr_line
+		(start 124.5235 108.0135)
+		(end 119.3165 108.0135)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fb8cf11e-a23a-4a1f-abb3-785eaa332f77")
+	)
 	(gr_arc
 		(start 187.4 107.72)
 		(mid 186.814214 109.134214)
@@ -2285,6 +2365,32 @@
 		(layer "Edge.Cuts")
 		(uuid "fbf7a765-ddde-44c7-90cb-0b07744ddd85")
 	)
+	(gr_text "◀RESET"
+		(at 167.64 58.42 0)
+		(layer "F.SilkS" knockout)
+		(uuid "97927a1c-a351-4022-ba35-6e0cc0cefe92")
+		(effects
+			(font
+				(size 1.016 1.016)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+	)
+	(gr_text "USER▶"
+		(at 137.16 58.42 0)
+		(layer "F.SilkS" knockout)
+		(uuid "f9c259a0-1e50-47c5-84e1-375a11c401d7")
+		(effects
+			(font
+				(size 1.016 1.016)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right)
+		)
+	)
 	(zone
 		(net 0)
 		(net_name "")
@@ -2507,17 +2613,6 @@
 			(pts
 				(xy 151.3586 70.003601) (xy 156.4386 70.003601) (xy 156.4386 67.463601) (xy 151.3586 67.463601)
 			)
-		)
-	)
-	(group ""
-		(uuid "50a2ff30-6780-4ff3-8762-8b2efed2dfbb")
-		(members "0d140630-bca3-49aa-b87d-8d6170f14bc6" "1e40f413-7ec0-40a5-8839-53505a2c6e0a"
-			"2275657d-a53d-488c-9030-e2f2dabe9318" "233bb4ba-a8d2-4a75-9ed1-4a6f4ff595d1"
-			"33f5d391-c550-4f76-a0c5-83bcefefd0cf" "446f670b-42c1-4bbe-904a-5b88769e6943"
-			"4dd7b11a-2cef-4a32-821a-791dfac6bed1" "ab0bcea5-bf33-4ac2-b115-6a630fbaf967"
-			"c29b4a8b-e744-44f5-a5fa-d08552dcebf7" "db37066f-6a8c-46f3-8757-d11ea7477588"
-			"dd624fa4-2d13-407e-ab04-5fbf28366655" "ddf92cb8-00df-4670-8835-9b206669a0af"
-			"e13b6391-877d-4a18-90dc-52d97e51df89" "f220bd89-d1c8-43ff-b935-35ef54671148"
 		)
 	)
 	(group ""
