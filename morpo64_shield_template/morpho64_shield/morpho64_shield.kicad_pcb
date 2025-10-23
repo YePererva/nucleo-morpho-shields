@@ -3290,6 +3290,70 @@
 		(net 0)
 		(net_name "")
 		(layer "B.Cu")
+		(uuid "67da2c1f-1915-412c-ac25-32dc6888eeaa")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads not_allowed)
+			(copperpour allowed)
+			(footprints not_allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "/")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 132.08 103.998066) (xy 137.16 103.998066) (xy 137.16 106.538066) (xy 132.08 106.538066)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "B.Cu")
+		(uuid "b0eb2969-db58-4faa-a952-8d9f15137a8f")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads not_allowed)
+			(copperpour allowed)
+			(footprints not_allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "/")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 167.64 107.95) (xy 167.64 100.33) (xy 170.18 100.33) (xy 170.18 107.95)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "B.Cu")
 		(uuid "c29b4a8b-e744-44f5-a5fa-d08552dcebf7")
 		(hatch edge 0.5)
 		(connect_pads
